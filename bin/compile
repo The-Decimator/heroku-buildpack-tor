@@ -2,7 +2,7 @@
 
 ## VARIABLES
 RUN_COMMAND=run_tor
-TOR_VER=0.3.0.10
+TOR_VER=tor-0.4.4.5
 TOR_SRC_NAME=tor-${TOR_VER}.tar.gz
 TOR_DIST_URL=https://www.torproject.org/dist/
 
